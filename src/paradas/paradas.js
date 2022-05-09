@@ -19,7 +19,7 @@ const paradas = {
         lineas: [15, 184],
     },
     11: {
-        ubicacion: 110,
+        ubicacion: 11,
         lineas: [15, 60, 720],
     },
 };
